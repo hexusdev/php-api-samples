@@ -11,8 +11,14 @@
   "license": "MIT",
   "require": {
     "php": ">=5.3.3",
-    "phpseclib/phpseclib": "~0"
+    "hexusdev/phpseclib": "~2.0"
   },
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:hexusdev/php-api-samples.git"
+        }
+  ],
   "autoload": {
     "files": [],
     "psr-4": {
