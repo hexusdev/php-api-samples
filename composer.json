@@ -16,7 +16,7 @@
   "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:hexusdev/php-api-samples.git"
+            "url": "git@github.com:hexusdev/phpseclib.git"
         }
   ],
   "autoload": {
