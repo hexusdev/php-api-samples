@@ -10,15 +10,8 @@
   "homepage": "https://capitalist.net",
   "license": "MIT",
   "require": {
-    "php": ">=5.3.3",
-    "hexusdev/phpseclib": "~2.0"
+    "php": ">=5.3.3"
   },
-  "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:hexusdev/phpseclib.git"
-        }
-  ],
   "autoload": {
     "files": [],
     "psr-4": {
